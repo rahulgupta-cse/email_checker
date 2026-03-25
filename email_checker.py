@@ -1,3 +1,4 @@
+#Project for Checking Validation of a Email
 email = input("Enter Your Email: ")
 count = 0
 if 6 <= len(email) <= 254: #Length if Gmail should be in range 6 to 254
